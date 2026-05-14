@@ -1,0 +1,18 @@
+/* =============================================
+   styles.css — Page-level styles only
+   (All form / input / button styles are
+    applied as inline CSS inside App.js,
+    as required by the assignment.)
+   ============================================= */
+ 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; /* Light gray background */
+  min-height: 100vh;
+}
